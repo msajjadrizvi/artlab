@@ -1,0 +1,19 @@
+ .button {
+  background-color: #6A7DFF;
+  color: #fff;
+  border: none;
+  min-width: "20";
+  display: flex;
+  padding: 1rem;
+  font-size: 1.2rem;
+  font-family: 'Galano Classic DEMO';
+  letter-spacing: 0.05rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 1s;
+}
+
+.button:hover {
+    background-color: #1130ff;
+    transition: background-color 0.2s;
+  } 
